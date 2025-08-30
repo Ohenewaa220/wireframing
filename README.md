@@ -45,6 +45,19 @@ Wireframes can be categorized into two types:
 - Used later in the design phase to test usability  
 *Example:* A Figma design that closely resembles the final product.
 
+## Example Wireframe Type
+
+The wireframe shown below is a **High-Fidelity Wireframe**.  
+Unlike low-fidelity wireframes, which use simple sketches and placeholders to focus on structure, this high-fidelity wireframe includes colors, images, buttons, and detailed layouts.  
+
+It closely resembles the final product and is useful for:  
+- Visualizing the end-user experience  
+- Testing navigation flow between screens  
+- Demonstrating the look and feel to stakeholders  
+
+![Figma Wireframe](figma-wireframe.png)
+
+
 ---
 
 ## 3. Wireframing Tools
