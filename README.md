@@ -1,5 +1,5 @@
 # wireframing
-# Wireframing
+
 
 ## Introduction
 Wireframing is the process of creating a visual guide that represents the skeletal framework of a website or application. It helps designers, developers, and stakeholders understand the structure, flow, and functionality of a product before diving into detailed design or development. Wireframing is important because it:
@@ -55,7 +55,9 @@ It closely resembles the final product and is useful for:
 - Testing navigation flow between screens  
 - Demonstrating the look and feel to stakeholders  
 
-![Figma Wireframe](figma-wireframe.png)
+
+
+![figma-wireframe png](https://github.com/user-attachments/assets/9a19aadd-601c-43d9-b38a-ec961e5519a0)
 
 
 ---
